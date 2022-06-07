@@ -1,0 +1,21 @@
+{
+  "name": "vue3",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "minimist": "^1.2.6",
+    "rollup-pluginutils": "^2.8.2",
+    "vue": "^3.2.36",
+    "xregexp": "^3.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "cross-env": "^7.0.3",
+    "vite": "^2.9.9"
+  }
+}
